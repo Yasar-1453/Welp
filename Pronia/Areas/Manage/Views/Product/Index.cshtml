@@ -7,7 +7,7 @@
     <div class="flex">
         @if ((List<string>)TempData["error"]!=null)
         {
-            @foreach (var item in (List<string>)TempData["error"])
+            @foreach (var item in (TempData["error"] as string[]))
             {
                 <span class="text-danger">item</span>
             }
@@ -50,7 +50,7 @@
 
                     <td>
                         <div style="width:100px">
-                            <img width="100%" src="~/Upload/Product/@item.ProductImages?.FirstOrDefault(x=>x.Primary).ImgUrl" />
+                            <img width="100%" src="~/Upload/Product/@item.ProductImages?.FirstOrDefault(x=>x.Primary)?.ImgUrl" />
                         </div>
 
                     </td>

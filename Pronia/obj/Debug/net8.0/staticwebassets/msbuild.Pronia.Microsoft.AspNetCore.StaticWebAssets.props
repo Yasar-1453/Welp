@@ -37206,6 +37206,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\1a588426-9174-401a-a3e6-df461525290f1-1-570x633.jpg1a588426-9174-401a-a3e6-df461525290f1-1-570x633.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\40a72288-4477-4ca4-b3c3-ab6e0de4d9dcNitro_Wallpaper_02_3840x2400.jpg40a72288-4477-4ca4-b3c3-ab6e0de4d9dcNitro_Wallpaper_02_3840x2400.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Pronia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Pronia</BasePath>
+      <RelativePath>Upload/Product/40a72288-4477-4ca4-b3c3-ab6e0de4d9dcNitro_Wallpaper_02_3840x2400.jpg40a72288-4477-4ca4-b3c3-ab6e0de4d9dcNitro_Wallpaper_02_3840x2400.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>g77ucq03ea</Fingerprint>
+      <Integrity>/HNOW83qCI1rnCovRAZAWue2GVOOce8cueu1sBkZuE4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\40a72288-4477-4ca4-b3c3-ab6e0de4d9dcNitro_Wallpaper_02_3840x2400.jpg40a72288-4477-4ca4-b3c3-ab6e0de4d9dcNitro_Wallpaper_02_3840x2400.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\4b6b3fc2-cc45-4785-a487-e1fb031589911-2-524x617.png4b6b3fc2-cc45-4785-a487-e1fb031589911-2-524x617.png'))">
       <SourceType>Package</SourceType>
       <SourceId>Pronia</SourceId>
@@ -37223,6 +37241,132 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\4b6b3fc2-cc45-4785-a487-e1fb031589911-2-524x617.png4b6b3fc2-cc45-4785-a487-e1fb031589911-2-524x617.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\686abc07-ac7a-4611-86c0-9b6fe79f1c371-1-768x546.webp686abc07-ac7a-4611-86c0-9b6fe79f1c371-1-768x546.webp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Pronia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Pronia</BasePath>
+      <RelativePath>Upload/Product/686abc07-ac7a-4611-86c0-9b6fe79f1c371-1-768x546.webp686abc07-ac7a-4611-86c0-9b6fe79f1c371-1-768x546.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xd59y6fljf</Fingerprint>
+      <Integrity>exJ2FEt2jze3XdjFphazOnuW14IZazYl4y1NnMa1N6A=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\686abc07-ac7a-4611-86c0-9b6fe79f1c371-1-768x546.webp686abc07-ac7a-4611-86c0-9b6fe79f1c371-1-768x546.webp'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\6d907d10-2db1-4997-b029-4b4a0b9b415dNitro_Wallpaper_03_3840x2400.jpg6d907d10-2db1-4997-b029-4b4a0b9b415dNitro_Wallpaper_03_3840x2400.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Pronia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Pronia</BasePath>
+      <RelativePath>Upload/Product/6d907d10-2db1-4997-b029-4b4a0b9b415dNitro_Wallpaper_03_3840x2400.jpg6d907d10-2db1-4997-b029-4b4a0b9b415dNitro_Wallpaper_03_3840x2400.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dzbn9lj02v</Fingerprint>
+      <Integrity>aenydJSpxmcoOS9GvtZf40nKPJ4x5HrvcKIMLfjo/vU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\6d907d10-2db1-4997-b029-4b4a0b9b415dNitro_Wallpaper_03_3840x2400.jpg6d907d10-2db1-4997-b029-4b4a0b9b415dNitro_Wallpaper_03_3840x2400.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\7a864ac2-fe7b-4a49-93e3-0b3644f2bf4d1-1-770x300.jpg7a864ac2-fe7b-4a49-93e3-0b3644f2bf4d1-1-770x300.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Pronia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Pronia</BasePath>
+      <RelativePath>Upload/Product/7a864ac2-fe7b-4a49-93e3-0b3644f2bf4d1-1-770x300.jpg7a864ac2-fe7b-4a49-93e3-0b3644f2bf4d1-1-770x300.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>c6ok753hcl</Fingerprint>
+      <Integrity>nD25VtAJrEX5dEzIF+EJgmjJdoJ7lUuWJZMxLJSYQbQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\7a864ac2-fe7b-4a49-93e3-0b3644f2bf4d1-1-770x300.jpg7a864ac2-fe7b-4a49-93e3-0b3644f2bf4d1-1-770x300.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\8337bd88-0ab3-4a23-898f-e5dc44e1365dNitro_Wallpaper_03_3840x2400.jpg8337bd88-0ab3-4a23-898f-e5dc44e1365dNitro_Wallpaper_03_3840x2400.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Pronia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Pronia</BasePath>
+      <RelativePath>Upload/Product/8337bd88-0ab3-4a23-898f-e5dc44e1365dNitro_Wallpaper_03_3840x2400.jpg8337bd88-0ab3-4a23-898f-e5dc44e1365dNitro_Wallpaper_03_3840x2400.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dzbn9lj02v</Fingerprint>
+      <Integrity>aenydJSpxmcoOS9GvtZf40nKPJ4x5HrvcKIMLfjo/vU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\8337bd88-0ab3-4a23-898f-e5dc44e1365dNitro_Wallpaper_03_3840x2400.jpg8337bd88-0ab3-4a23-898f-e5dc44e1365dNitro_Wallpaper_03_3840x2400.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\9555f50c-40fd-4b9e-80f5-c15223b1ee3e1-1-570x633.jpg9555f50c-40fd-4b9e-80f5-c15223b1ee3e1-1-570x633.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Pronia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Pronia</BasePath>
+      <RelativePath>Upload/Product/9555f50c-40fd-4b9e-80f5-c15223b1ee3e1-1-570x633.jpg9555f50c-40fd-4b9e-80f5-c15223b1ee3e1-1-570x633.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>arp987lwle</Fingerprint>
+      <Integrity>WkGwO++RJLKtdyDoGDcIqcBjf7RznhgWIM+GfY5yhBE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\9555f50c-40fd-4b9e-80f5-c15223b1ee3e1-1-570x633.jpg9555f50c-40fd-4b9e-80f5-c15223b1ee3e1-1-570x633.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\a827485d-ba75-48a9-8215-e1bf61c17c7a1-1-524x617.pnga827485d-ba75-48a9-8215-e1bf61c17c7a1-1-524x617.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Pronia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Pronia</BasePath>
+      <RelativePath>Upload/Product/a827485d-ba75-48a9-8215-e1bf61c17c7a1-1-524x617.pnga827485d-ba75-48a9-8215-e1bf61c17c7a1-1-524x617.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>bi0ctx63s1</Fingerprint>
+      <Integrity>bfHrcyaMunnUX+V9T6RgQ3ck0ENM99CkTx2DVOOyBQk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\a827485d-ba75-48a9-8215-e1bf61c17c7a1-1-524x617.pnga827485d-ba75-48a9-8215-e1bf61c17c7a1-1-524x617.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\d80b4dab-65c5-407d-8e44-307d257e82f9Nitro_Wallpaper_02_3840x2400.jpgd80b4dab-65c5-407d-8e44-307d257e82f9Nitro_Wallpaper_02_3840x2400.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Pronia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Pronia</BasePath>
+      <RelativePath>Upload/Product/d80b4dab-65c5-407d-8e44-307d257e82f9Nitro_Wallpaper_02_3840x2400.jpgd80b4dab-65c5-407d-8e44-307d257e82f9Nitro_Wallpaper_02_3840x2400.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>g77ucq03ea</Fingerprint>
+      <Integrity>/HNOW83qCI1rnCovRAZAWue2GVOOce8cueu1sBkZuE4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\d80b4dab-65c5-407d-8e44-307d257e82f9Nitro_Wallpaper_02_3840x2400.jpgd80b4dab-65c5-407d-8e44-307d257e82f9Nitro_Wallpaper_02_3840x2400.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\fc52aea7-fb89-418e-93df-9f1beb27c1f71-2-524x617.pngfc52aea7-fb89-418e-93df-9f1beb27c1f71-2-524x617.png'))">
       <SourceType>Package</SourceType>
@@ -37278,6 +37422,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Slider\1-3-270x300.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Slider\2aed88c9-37dd-441f-a9cf-fa72eb792e5a1-1-310x220.jpg2aed88c9-37dd-441f-a9cf-fa72eb792e5a1-1-310x220.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Pronia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Pronia</BasePath>
+      <RelativePath>Upload/Slider/2aed88c9-37dd-441f-a9cf-fa72eb792e5a1-1-310x220.jpg2aed88c9-37dd-441f-a9cf-fa72eb792e5a1-1-310x220.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>cse4vez4vy</Fingerprint>
+      <Integrity>JDWufIJd8JbVN1XglXFsFfiVBAtyMZc5dEZUjsLb698=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Slider\2aed88c9-37dd-441f-a9cf-fa72eb792e5a1-1-310x220.jpg2aed88c9-37dd-441f-a9cf-fa72eb792e5a1-1-310x220.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Slider\3843f007-e96b-4e27-b9b4-c2776463bd2aScreenshot 2024-12-15 170528.png'))">
       <SourceType>Package</SourceType>
       <SourceId>Pronia</SourceId>
@@ -37295,6 +37457,78 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Slider\3843f007-e96b-4e27-b9b4-c2776463bd2aScreenshot 2024-12-15 170528.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Slider\5de9bc83-30a1-4210-806d-9e6717911cbf1-2-370x300.jpg5de9bc83-30a1-4210-806d-9e6717911cbf1-2-370x300.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Pronia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Pronia</BasePath>
+      <RelativePath>Upload/Slider/5de9bc83-30a1-4210-806d-9e6717911cbf1-2-370x300.jpg5de9bc83-30a1-4210-806d-9e6717911cbf1-2-370x300.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>t8a7uhl7u6</Fingerprint>
+      <Integrity>Y/6uK7KympvSp0dA6rwwLLciMQpR1vuZ1mK/zoUXsTA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Slider\5de9bc83-30a1-4210-806d-9e6717911cbf1-2-370x300.jpg5de9bc83-30a1-4210-806d-9e6717911cbf1-2-370x300.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Slider\6c6d4b89-693f-47a1-bafd-1fa3427975d31-1-570x633.jpg6c6d4b89-693f-47a1-bafd-1fa3427975d31-1-570x633.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Pronia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Pronia</BasePath>
+      <RelativePath>Upload/Slider/6c6d4b89-693f-47a1-bafd-1fa3427975d31-1-570x633.jpg6c6d4b89-693f-47a1-bafd-1fa3427975d31-1-570x633.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>arp987lwle</Fingerprint>
+      <Integrity>WkGwO++RJLKtdyDoGDcIqcBjf7RznhgWIM+GfY5yhBE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Slider\6c6d4b89-693f-47a1-bafd-1fa3427975d31-1-570x633.jpg6c6d4b89-693f-47a1-bafd-1fa3427975d31-1-570x633.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Slider\9c1d5f06-0f95-4c67-85ea-74d8dd9e0d1e1-1-570x633.jpg9c1d5f06-0f95-4c67-85ea-74d8dd9e0d1e1-1-570x633.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Pronia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Pronia</BasePath>
+      <RelativePath>Upload/Slider/9c1d5f06-0f95-4c67-85ea-74d8dd9e0d1e1-1-570x633.jpg9c1d5f06-0f95-4c67-85ea-74d8dd9e0d1e1-1-570x633.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>arp987lwle</Fingerprint>
+      <Integrity>WkGwO++RJLKtdyDoGDcIqcBjf7RznhgWIM+GfY5yhBE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Slider\9c1d5f06-0f95-4c67-85ea-74d8dd9e0d1e1-1-570x633.jpg9c1d5f06-0f95-4c67-85ea-74d8dd9e0d1e1-1-570x633.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Slider\a2a1d807-fe11-4dfa-a1f6-03358a175bb0Nitro_Wallpaper_02_3840x2400.jpga2a1d807-fe11-4dfa-a1f6-03358a175bb0Nitro_Wallpaper_02_3840x2400.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Pronia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Pronia</BasePath>
+      <RelativePath>Upload/Slider/a2a1d807-fe11-4dfa-a1f6-03358a175bb0Nitro_Wallpaper_02_3840x2400.jpga2a1d807-fe11-4dfa-a1f6-03358a175bb0Nitro_Wallpaper_02_3840x2400.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>g77ucq03ea</Fingerprint>
+      <Integrity>/HNOW83qCI1rnCovRAZAWue2GVOOce8cueu1sBkZuE4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Slider\a2a1d807-fe11-4dfa-a1f6-03358a175bb0Nitro_Wallpaper_02_3840x2400.jpga2a1d807-fe11-4dfa-a1f6-03358a175bb0Nitro_Wallpaper_02_3840x2400.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Slider\e60bda1e-bae2-4e92-b380-148c06894c08Screenshot 2024-12-15 194130.png'))">
       <SourceType>Package</SourceType>

@@ -22,9 +22,9 @@ namespace Pronia.Areas.Manage.Controllers
         public async Task<IActionResult> Index()
         {
             var product = await _context.Products.Include(c=>c.Category)
+                .Include(p=>p.ProductImages)
                 .Include(t=>t.TagProducts)
-                .ThenInclude(p=>p.Tag)
-                .Include(p=>p.ProductImages).ToListAsync();
+                .ThenInclude(p=>p.Tag).ToListAsync();
             return View(product);
         }
 
@@ -38,7 +38,7 @@ namespace Pronia.Areas.Manage.Controllers
         public async Task<IActionResult> Create(CreateProductVm vm)
         {
             ViewBag.Categories = _context.Categories.ToList();
-            ViewBag.Tags = _context.Tags.ToList();
+            ViewBag.Tags =  _context.Tags.ToList();
 
             if (!ModelState.IsValid)
             {
@@ -90,7 +90,7 @@ namespace Pronia.Areas.Manage.Controllers
                 ModelState.AddModelError("MainPhoto", "Duzgun format daxil edilmeyib");
                 return View();
             }
-            if(vm.MainPhoto.Length > 3000000)
+            if(vm.MainPhoto.Length > 30000000)
             {
                 ModelState.AddModelError("MainPhoto", "max 3mb yukleye bilersiz");
                 return View();
@@ -110,7 +110,7 @@ namespace Pronia.Areas.Manage.Controllers
                     error.Add($"{item.Name} image formatinda deyil");
                     continue;
                 }
-                if (item.Length > 3000000)
+                if (item.Length > 30000000)
                 {
                     error.Add($"{item.Name} olcu max 3mb olabiler");
 

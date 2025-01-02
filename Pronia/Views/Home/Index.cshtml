@@ -1549,14 +1549,14 @@
                                                 @if(item.ProductImages.FirstOrDefault(x=>x.Primary) is not null)
                                                 {
                                                     <img class="primary-img"
-                                                        src="~/assets/images/website-images//@item.ProductImages.FirstOrDefault(x=>x.Primary).ImgUrl"
+                                                        src="~/Upload/Product//@item.ProductImages.FirstOrDefault(x=>x.Primary).ImgUrl"
                                                         alt="Product Images" />
 
                                                 }
                                                 @if(item.ProductImages.FirstOrDefault(x=>x.Primary==false) is not null)
                                                 {
                                                     <img class="secondary-img"
-                                                         src="~/assets/images/website-images//@item.ProductImages.FirstOrDefault(x=>x.Primary==false).ImgUrl"
+                                                         src="~/Upload/Product//@item.ProductImages.FirstOrDefault(x=>x.Primary==false).ImgUrl"
                                                          alt="Product Images" />
                                                 }
                                                 
